@@ -10411,7 +10411,7 @@
                                 children: "Detailed Video Information",
                               }),
                               (0, me.jsx)("video", {
-                                src: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/WhatsApp%20Video%202024-11-25%20at%2011.46.31.mp4?alt=media&token=50f5ab7a-907a-4d8b-938c-b3c6e5189052",
+                                src: "https://ik.imagekit.io/zaq7etrry/948568sampletry.mp4?updatedAt=1747426520880",
                                 controls: !0,
                                 autoPlay: !0,
                               }),
@@ -14303,7 +14303,7 @@
                           children: "Detailed Video Information.",
                         }),
                         (0, me.jsx)("a", {
-                          href: "https://firebasestorage.googleapis.com/v0/b/chatapp-3655a.appspot.com/o/WhatsApp%20Video%202024-11-25%20at%2011.46.31.mp4?alt=media&token=50f5ab7a-907a-4d8b-938c-b3c6e5189052",
+                          href: "https://ik.imagekit.io/zaq7etrry/948568sampletry.mp4?updatedAt=1747426520880",
                           children: (0, me.jsx)("img", {
                             src: Ze,
                             alt: "fb",
